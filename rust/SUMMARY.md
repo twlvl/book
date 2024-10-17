@@ -9,3 +9,4 @@
 * [1.0 Пачатак](1/1.0-pachatak.md)
 * [1.1 Устаноўка](1/1.1-ustano-ka.md)
 * [1.2 Прывітанне, мір!](1/1.2-pryvitanne-mir.md)
+* [1.3 Прывітанне, Пагрузчык!](1/1.3-pryvitanne-pagruzchyk.md)
