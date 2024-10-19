@@ -10,3 +10,7 @@
 * [1.1 Устаноўка](1/1.1-ustano-ka.md)
 * [1.2 Прывітанне, мір!](1/1.2-pryvitanne-mir.md)
 * [1.3 Прывітанне, Пагрузчык!](1/1.3-pryvitanne-pagruzchyk.md)
+
+## 3
+
+* [3.0 Агульныя Канцэпцыі Праграмавання](3/3.0-agulnyya-kancepcyi-pragramavannya.md)
