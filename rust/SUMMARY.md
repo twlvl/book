@@ -18,4 +18,8 @@
 ## 3
 
 * [3.0 Агульныя Канцэпцыі Праграмавання](3/3.0-agulnyya-kancepcyi-pragramavannya.md)
-* [3.1 Пераменныя ды Змяняльнасць](3/3.1-peramennyya-dy-zmyanyalnasc.md)
+* [3.1 Канстанты ды Змяняльнасць](3/3.1-kanstanty-dy-zmyanyalnasc.md)
+
+***
+
+* [3.2 Тыпы Дадзеных](3.2-typy-dadzenykh.md)
